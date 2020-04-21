@@ -1,0 +1,13 @@
+sno,vname,vcity,vlocation,itemid,itemname,itype,price
+1,rest1,Hyderabad,kphb,1,biryani,south indian,100.00
+2,rest2,Hyderabad,Erragadda,1,plainrice,south indian,70.00
+3,rest3,Hyderabad,SRNagar,1,fridrice,chinees,120.00
+4,rest4,Hyderabad,Ameerpet,1,vegrice,south indian,120.00
+5,rest5,Hyderabad,Panjagutta,1,manchuria,chinees,120.00
+6,rest6,Hyderabad,Somajiguda,1,chickencurry,south indian,150.00
+7,rest7,Hyderabad,Nacharam,1,motton,south indian,250.00
+8,rest8,Hyderabad,MotiNagar,1,gobi rice,North indian,50.00
+9,rest9,Hyderabad,Boarabanda,1,dhal rice,North indian,50.00
+10,rest10,Hyderabad,uppal,1,chapathi,North indian,45.00
+11,rest1,Hyderabad,erragadda,2,upma,North indian,40.00
+12,rest3,Hyderabad,kphb,2,biryani,South indian,70.00
